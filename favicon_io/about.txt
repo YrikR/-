@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans New Tai Lue
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAYUbghFPKzeY.ttf
+- Font License: undefined)
